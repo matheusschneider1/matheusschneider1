@@ -1,16 +1,16 @@
-## Hi there 👋
+<h1 align="center">Matheus Schneider</h1>
 
-<!--
-**matheusschneider1/matheusschneider1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Hello, Devs! 👋
 
-Here are some ideas to get you started:
+Tenho 23 anos, sou de Mogi das Cruzes/SP e sou apaixonado por tecnologia e por aprender coisas novas. Sou o tipo de pessoa que mergulha em um assunto até entender como ele funciona com direito a café e muitos "só mais cinco minutinhos". 😎
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+  <img src="https://media1.tenor.com/m/D0uqUaBmhOsAAAAC/let-him-cook-magic.gif" width="300" />
+</p>
+
+   
+🎓 Estudante de Engenharia de Software.  
+💻 Atualmente participo do bootcamp Fullstack JavaScript pela Generation Brasil.  
+🔧 Venho da área de mecânica industrial, onde desenvolvi disciplina e atenção aos detalhes.  
+🚀 Em busca da minha primeira oportunidade para colaborar com projetos reais.  
+⚡ Curto resolver cubo mágico e gosto muito do universo geek
