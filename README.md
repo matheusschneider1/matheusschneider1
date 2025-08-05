@@ -1,16 +1,8 @@
-<div align="right">
-  <img src="https://github.com/matheusschneider1/matheusschneider1/blob/main/meu%20avatar.png?raw=true" width="150" />
-</div>
-
 <h1 align="center">Matheus Schneider</h1>
 
 ## Hello, Devs! 👋
 
 Tenho 23 anos, sou de Mogi das Cruzes/SP e sou apaixonado por tecnologia e por aprender coisas novas. Sou o tipo de pessoa que mergulha em um assunto até entender como ele funciona com direito a café e muitos "só mais cinco minutinhos". 😎
-
-<p align="center">
-  <img src="https://media1.tenor.com/m/D0uqUaBmhOsAAAAC/let-him-cook-magic.gif" width="400" />
-</p>
 
 <img src="https://github.com/matheusschneider1/matheusschneider1/blob/main/meu%20avatar%202.png?raw=true" width="350" align="right" />
 
